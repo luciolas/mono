@@ -1,11 +1,13 @@
-../../build/common/Consts.cs
 Assembly/AssemblyInfo.cs
+HttpClientHandler.Legacy.cs
+IMonoHttpClientHandler.cs
+MonoWebRequestHandler.cs
+HeaderUtils.Legacy.cs
 System.Net.Http/ByteArrayContent.cs
 System.Net.Http/ClientCertificateOption.cs
 System.Net.Http/DelegatingHandler.cs
 System.Net.Http/FormUrlEncodedContent.cs
 System.Net.Http/HttpClient.cs
-System.Net.Http/HttpClientHandler.cs
 System.Net.Http/HttpCompletionOption.cs
 System.Net.Http/HttpContent.cs
 System.Net.Http/HttpMessageHandler.cs
